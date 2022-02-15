@@ -1,2 +1,1 @@
-# Signal-Processing-Lab
-Demonstration of the mini-lab component activities conducted for the course of Signal Processing Lab (19CCE281).
+Demonstration of the mini-lab component activities conducted for the course of Signal Processing Lab (19CCE281). It familiarizes with time and frequency domain representations of signals and systems, the frequency response of systems and designing digital filters with suitable structures. 
